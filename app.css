@@ -1,0 +1,24 @@
+.main {
+  margin-top: 10%;
+}
+.mainClick {
+  margin-top: 2%;
+}
+body {
+  background-color: #0df0f0;
+  background-image: url("https://www.corporatecomplianceinsights.com/wp-content/uploads/2018/07/cryptocurrency.jpg");
+}
+.fix {
+  border: 2px solid #fdf5e6;
+  border-radius: 5px;
+  background-color: #00008b;
+  padding: 10px;
+}
+h1 {
+  color: #ffffff;
+  font-weight: bold;
+}
+h4 {
+  color: #ffffff;
+  font-weight: normal;
+}
